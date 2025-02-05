@@ -1,0 +1,8 @@
+.git/
+__pycache__/
+nasa_jet_rul_dataset/
+*.pyc
+*.pyo
+*.env
+*.log
+*.pkl
